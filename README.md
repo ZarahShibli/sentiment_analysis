@@ -28,6 +28,10 @@ This project to build a sentiment analysis for Movies dataset.
 In this project, we used [Gaussian Naive Bayes from scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html). The data have been split into training and testing with a ratio of 80:20.
 
 
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" height = '40px' >](https://colab.research.google.com/github/ZarahShibli/sentiment_analysis/blob/master/notebooks/sentiment_analysis_en.ipynb)
+
+
+
 ## 5. Result<a name="results"></a> 
 Here some prediction to model.
 
